@@ -18,6 +18,8 @@
   "bugs": {
     "url": "https://github.com/O-R-C/ajs-homeworks-workspace-3/issues"
   },
-  "homepage": "https://github.com/O-R-C/ajs-homeworks-workspace-3#readme"
+  "homepage": "https://github.com/O-R-C/ajs-homeworks-workspace-3#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
 }
-
